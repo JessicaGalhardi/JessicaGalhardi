@@ -3,7 +3,7 @@
  
 
 
-<h3 align="center">And I study Systems Analysis And Development 👩‍💻</h3>
+<h1 align="center">📚 And I study Systems Analysis And Development 👩‍💻</h1>
 
 - I’m currently learning **android development with Kotlin language**
 
