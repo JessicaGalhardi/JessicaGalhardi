@@ -1,9 +1,9 @@
 
- <img src="https://user-images.githubusercontent.com/104734490/171938252-da3a00f1-9943-439b-8bd8-4cae0cb8962d.gif" /> <h1 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h1>
+ <img src="https://user-images.githubusercontent.com/104734490/171938252-da3a00f1-9943-439b-8bd8-4cae0cb8962d.gif" /> <h2 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h2>
  
 
 
-<h1 align="center">📚 And I study Systems Analysis And Development 👩‍💻</h1>
+<h2 align="center">📚 And I study Systems Analysis And Development at the university INFNET 👩‍💻</h2>
 
 - I’m currently learning **android development with Kotlin language**
 
