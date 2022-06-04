@@ -10,7 +10,7 @@
 
 - 📧 You can contact me on: **jessica.galhardi@al.infnet.edu.br**
 
-- 😎 Fun facts about me? **I'm passionate about music and to cook! 🎶**
+- 😎 Fun facts about me? **I'm passionate about music and cooking! 🎶**
 
 
 <h3 align="left">Connect with me:</h3>
