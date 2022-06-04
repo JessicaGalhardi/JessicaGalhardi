@@ -1,5 +1,6 @@
 
- <img src="https://user-images.githubusercontent.com/104734490/171938252-da3a00f1-9943-439b-8bd8-4cae0cb8962d.gif" /> <h2 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h2>
+<p align="center">
+<img src ="https://user-images.githubusercontent.com/104734490/171992208-bd64da1f-733b-4de6-84e0-c68c0bd03196.gif" /> <h2 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h2>
  
 
 
