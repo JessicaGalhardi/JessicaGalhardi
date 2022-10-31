@@ -1,4 +1,5 @@
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="center">
 <img src ="https://user-images.githubusercontent.com/104734490/171992208-bd64da1f-733b-4de6-84e0-c68c0bd03196.gif" /> <h2 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h2>
  
@@ -11,6 +12,8 @@ I’m currently learning C# development with .NET.<br><br>📧 You can contact m
 
 
 ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-galhardi) 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/galhardij) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jéssica Galhardi ) 
 
 # 💻 Tech Stack:
