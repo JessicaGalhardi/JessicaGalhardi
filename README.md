@@ -25,7 +25,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> ![image])
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="(https://user-images.githubusercontent.com/104734490/199031486-fffcdc9a-60fa-4fd0-b8d9-237f4376467f.png" alt="kotlin" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
