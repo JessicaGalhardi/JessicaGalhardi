@@ -8,7 +8,7 @@
 <h2 align="center">📚 And I study Systems Analysis And Development at the university INFNET 👩‍💻</h2>
 
 # 💫 About Me:
-I’m currently learning C# development with .NET.<br><br>📧 You can contact me on: jessica.galhardi@al.infnet.edu.br<br><br>😎 Fun facts about me? I'm passionate about music and cooking! 🎶
+I’m currently learning C# development with .NET for the Back-end and Html, CSS, JAVASCRIPT, BOOTSTRAP for Front-end.<br><br>📧 You can contact me on: jessica.galhardi@al.infnet.edu.br<br><br>😎 Fun facts about me? I'm passionate about music and cooking! 🎶
 
 
 ## 🌐 Socials:
