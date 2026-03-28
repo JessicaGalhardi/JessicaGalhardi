@@ -4,12 +4,13 @@
 <img src ="https://user-images.githubusercontent.com/104734490/171992208-bd64da1f-733b-4de6-84e0-c68c0bd03196.gif" /> <h2 align="center">I'm Jessica Galhardi, pronouns: She/her 😊 </h2>
  
 
-
-<h2 align="center">📚 And I study Systems Analysis And Development at the university INFNET 👩‍💻</h2>
-
 # 💫 About Me:
-I’m currently learning C# development with .NET for the Back-end and Html, CSS, JAVASCRIPT, BOOTSTRAP for Front-end.<br><br>📧 You can contact me on: jessica.galhardi@al.infnet.edu.br<br><br>😎 Fun facts about me? I'm passionate about music and cooking! 🎶
 
+Software Developer | QA | C# .NET  
+
+- Experience with APIs, testing and troubleshooting  
+- Background in international teams  
+- Passion for problem-solving and organization  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessica-galhardi) 
